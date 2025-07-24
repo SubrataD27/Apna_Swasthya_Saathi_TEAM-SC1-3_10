@@ -19,18 +19,18 @@ An AI-driven platform designed to revolutionize healthcare accessibility in rura
 
 ## 📝 Table of Contents
 
-- [Problem Statement](#problem-statement)
-- [Our Solution](#our-solution)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Presentation](#presentation)
-- [Demo Video](#demo-video)
-- [Future Scope](#future-scope)
-- [Contributing](#contributing)
-- [License](#license)
+- [Problem Statement](#-problem-statement)
+- [Our Solution](#-our-solution)
+- [Key Features](#-key-features)
+- [Technology Stack](#-technology-stack)
+- [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
+- [Getting Started](#-getting-started)
+- [Presentation](#-presentation)
+- [Demo Video](#-demo-video)
+- [Future Scope](#-future-scope)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 

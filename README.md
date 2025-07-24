@@ -131,7 +131,7 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 
 Here's a glimpse of our application's dashboard:
 
-![Apna Swasthya Saathi Dashboard](https://i.imgur.com/your-screenshot-url.png)
+![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
 *Caption: The main dashboard providing access to all key features.*
 
 ---

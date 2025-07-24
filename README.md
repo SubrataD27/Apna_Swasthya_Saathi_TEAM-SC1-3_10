@@ -175,7 +175,7 @@ The application will be available at `http://localhost:5173`.
 
 For a detailed overview of our project, including the problem landscape, our unique value proposition, and business model, please view our presentation.
 
-**[Link to Presentation]** (e.g., Google Slides, PowerPoint Online)
+**[https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing]** (PPT PRESENTATION-SWASTHYA SATHI)
 
 ---
 

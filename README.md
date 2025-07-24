@@ -72,10 +72,16 @@ Our project is built with a modern and scalable technology stack:
 
 -   **Frontend:** React, Tailwind CSS, HTML5
 -   **Backend & Machine Learning (Planned):**
-    -   **Framework:** Python (Flask/Django)
-    -   **Machine Learning:** TensorFlow, Scikit-learn for the diagnostic model.
-    -   **Database:** MongoDB / PostgreSQL
--   **Deployment:** Vercel (Frontend), AWS/Heroku (Backend)
+    -   **Framework:** Python (Flask)
+    -   **Machine Learning:** TensorFlow, Scikit-learn
+    -   **Database:** PostgreSQL, Supabase
+-   **APIs & Services:**
+    -   **AI Chatbot:** Google Gemini API
+    -   **Government Schemes:** Biju Swasthya Kalyan Yojana (BSKY) API
+    -   **Mapping (Planned):** MapmyIndia API for location-based doctor search
+-   **Deployment:**
+    -   **Frontend:** Vercel
+    -   **Backend (Planned):** Heroku
 
 ---
 
@@ -108,6 +114,18 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 ├── package.json
 ├── README.md
 └── tailwind.config.js
+├── backend/ (Planned)
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── .env
+│   ├── ml_model/
+│   │   ├── model.pkl
+│   │   └── preprocessor.py
+│   ├── routes/
+│   │   ├── auth.py
+│   │   └── diagnostics.py
+│   └── models/
+│       └── user.py
 ```
 
 ---

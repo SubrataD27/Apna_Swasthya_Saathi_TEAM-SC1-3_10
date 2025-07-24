@@ -1,4 +1,5 @@
 # Apna Swasthya Saathi: AI-Powered Rural Healthcare
+### Team ID: TEAM(SC1)3_10
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,14 +7,14 @@ An AI-driven platform designed to revolutionize healthcare accessibility in rura
 
 ---
 
-## 🚀 Team Sanjeevni
+## 🚀 Team Sanjeevni (Team ID: TEAM(SC1)3_10)
 
-| Name                 | Role              |
-| -------------------- | ----------------- |
-| **Subrata Dhibar** | Team Lead |
-| **Ayush Kumar Biswal** | Researcher & Content Strategist |
-| **Ashmit Raj** | UI/UX Designer |
-| **Monosmita Behera** | PPT Designer |
+| Name                 | Role                            |
+| -------------------- | ------------------------------- |
+| **Subrata Dhibar** | Team Lead                       |
+| **Ayush Kumar Biswal**| Researcher & Content Strategist |
+| **Ashmit Raj** | UI/UX Designer                  |
+| **Monosmita Behera** | PPT Designer                    |
 
 ---
 
@@ -87,34 +88,28 @@ Our project is built with a modern and scalable technology stack:
 
 ## 📂 Project Structure
 
-Here is an overview of our project's directory structure:
+Here is an overview of our project's planned monorepo directory structure, developed by **Team ID: TEAM(SC1)3_10**.
 
 ```
 Apna_Swasthya_Saathi_TEAM-SC1-3_10/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Ai.jsx
-│   │   ├── Bsky.jsx
-│   │   ├── Card.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Finddoc.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Header.jsx
-│   │   ├── Home.jsx
+│
+├── frontend/  # React.js Frontend Application
+│   ├── public/
+│   │   ├── index.html
 │   │   └── ...
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
-├── backend/ (Planned)
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── Ai.jsx
+│   │   │   ├── Bsky.jsx
+│   │   │   └── ...
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── .gitignore
+│   ├── package.json
+│   └── tailwind.config.js
+│
+├── backend/  # Python Flask Backend (Planned)
 │   ├── app.py
 │   ├── requirements.txt
 │   ├── .env
@@ -126,6 +121,8 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 │   │   └── diagnostics.py
 │   └── models/
 │       └── user.py
+│
+└── README.md
 ```
 
 ---
@@ -173,9 +170,9 @@ The application will be available at `http://localhost:5173`.
 
 ## 📊 Presentation
 
-For a detailed overview of our project, including the problem landscape, our unique value proposition, and business model, please view our presentation.
+For a detailed overview of our project, please view the presentation created by **Team ID: TEAM(SC1)3_10**.
 
-**[https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing]** (PPT PRESENTATION-SWASTHYA SATHI)
+[**PPT PRESENTATION-SWASTHYA SATHI**](https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing)
 
 ---
 

@@ -129,10 +129,16 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 
 ## 📸 Screenshots
 
-Here's a glimpse of our application's dashboard:
+Here's a glimpse of our application:
 
 ![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
-*Caption: The main dashboard providing access to all key features.*
+*Home Page*
+![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
+*login Screen*
+![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
+*Asha Worker*
+![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
+*Citizen Dashboard*
 
 ---
 

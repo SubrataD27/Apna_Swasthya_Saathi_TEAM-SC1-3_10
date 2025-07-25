@@ -62,10 +62,6 @@
 
 ## 🎯 Problem Statement
 
-<div align="center">
-<img src="https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=Rural+Healthcare+Crisis" alt="Rural Healthcare Crisis"/>
-</div>
-
 In rural India, particularly in states like Odisha, **77% of women suffer from anemia** and **40% of children are malnourished**. The core challenges include:
 
 - 🏥 **Limited Access to Healthcare:** Scarcity of qualified medical professionals in remote areas
@@ -80,10 +76,6 @@ In rural India, particularly in states like Odisha, **77% of women suffer from a
 
 ## 💡 Our Solution
 
-<div align="center">
-<img src="https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Diagnose+→+Link+→+Insure" alt="Solution Flow"/>
-</div>
-
 **Apna Swasthya Saathi** is a comprehensive **B2G2C (Business-to-Government-to-Consumer)** ecosystem that revolutionizes rural healthcare through:
 
 ### 🔄 The Closed-Loop Model
@@ -96,10 +88,6 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 ---
 
 ## 🚀 Key Features
-
-<div align="center">
-<img src="https://via.placeholder.com/700x500/27AE60/FFFFFF?text=AI+Powered+Features" alt="Key Features"/>
-</div>
 
 ### 🤖 **AI-Powered Health Intelligence**
 - **Multi-modal AI Chatbot:** Voice + Text in Hindi/English/Odia
@@ -134,10 +122,6 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 ---
 
 ## 🏗️ Complete Backend Architecture
-
-<div align="center">
-<img src="https://via.placeholder.com/800x600/9B59B6/FFFFFF?text=Scalable+Backend+Architecture" alt="Backend Architecture"/>
-</div>
 
 ### 🔧 **Core Features Implemented:**
 
@@ -298,16 +282,12 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 │   │   ├── 📧 notification_service.py # Communication Services
 │   │   └── 📊 analytics_service.py # Data Analytics
 │   │
-│   ├── 📁 utils/                   # Utility Functions
-│   │   ├── 🔒 security.py         # Security Helpers
-│   │   ├── 📝 validators.py       # Input Validation
-│   │   └── 🗄️ database.py         # Database Utilities
-│   │
-│   └── 📁 tests/                   # Test Suite
-│       ├── 🧪 test_api.py         # API Testing
-│       ├── 🧪 test_ai.py          # AI Service Testing
-│       └── 🧪 test_integration.py # Integration Testing
-│
+│   ├── 📁 utils
+│   
+│   
+│   
+│   
+│   
 ├── 📁 docs/                        # Documentation
 │   ├── 📄 API_DOCUMENTATION.md
 │   ├── 📄 DEPLOYMENT_GUIDE.md

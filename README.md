@@ -171,10 +171,6 @@ APIs: 40+ REST endpoints with full CRUD operations
 
 ## 💻 Technology Stack
 
-<div align="center">
-<img src="https://via.placeholder.com/900x400/FF9500/FFFFFF?text=Modern+Tech+Stack" alt="Technology Stack"/>
-</div>
-
 ### 🎨 **Frontend Technologies**
 ```javascript
 Framework: React 18+ with Vite
@@ -413,7 +409,7 @@ Features: Analytics, user management, system monitoring
 
 ### 🎬 **Watch Our Complete Demo**
 
-[![Demo Video](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=▶️+Watch+Demo+Video)](https://your-demo-video-link.com)
+[![Demo Video](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=▶️+Watch+Demo+Video)](https://www.youtube.com/watch?v=3ok9RDsmrAo)
 
 **Features Demonstrated:**
 - ✅ AI-powered health assessment

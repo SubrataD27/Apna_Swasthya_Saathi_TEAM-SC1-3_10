@@ -409,14 +409,7 @@ Features: Analytics, user management, system monitoring
 
 ### 🎬 **Watch Our Complete Demo**
 
-[![Demo Video](https://www.youtube.com/watch?v=3ok9RDsmrAo)]
-
-**Features Demonstrated:**
-- ✅ AI-powered health assessment
-- ✅ Government scheme integration
-- ✅ ASHA worker dashboard
-- ✅ Emergency response system
-- ✅ Insurance claim processing
+[Demo Video](https://www.youtube.com/watch?v=3ok9RDsmrAo)
 
 *Duration: 5 minutes | Quality: 1080p*
 

@@ -452,7 +452,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ```
 MIT License - Open Source Healthcare Innovation
-Copyright (c) 2025 Team Sanjeevni - LEARNATHON 4.0
+Copyright (c) 2025 Team Sanjeevni | Team(SC1)3_10 - LEARNATHON 4.0
 ```
 
 ---

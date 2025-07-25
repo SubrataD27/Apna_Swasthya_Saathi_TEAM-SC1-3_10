@@ -81,7 +81,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2024 Apna Swasthya Saathi. All rights reserved. | 
+            © 2025 Apna Swasthya Saathi. All rights reserved. | 
             <span className="text-blue-400 ml-1">Built for a healthier India</span>
           </p>
         </div>

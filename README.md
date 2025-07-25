@@ -476,7 +476,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📞 Contact & Support
 
-<div align="center">
 
 ### 📧 **Get in Touch**
 
@@ -489,7 +488,6 @@ We welcome contributions from the community! Here's how you can help:
 📊 [Live Demo](https://apna-swasthya-saathi.vercel.app)  
 📋 [Project Presentation](https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing)
 
-</div>
 
 ---
 

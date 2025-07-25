@@ -1,4 +1,4 @@
-# 🏆 LEARNATHON 4.0 - Apna Swasthya Saathi: AI-Powered Rural Healthcare Revolution PS - 3
+# 🏆 LEARNATHON 4.0 - Apna Swasthya Saathi: AI-Powered Rural Healthcare Revolution| PS - 3
 
 <div align="center">
 

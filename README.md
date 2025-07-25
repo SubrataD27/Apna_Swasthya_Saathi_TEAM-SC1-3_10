@@ -32,12 +32,12 @@
 
 <table align="center">
 <tr>
-<td align="center"><strong>Subrata Dhibar</strong><br/>Team Lead & Backend Architect<br/>🎓 Roll: 23CSEAIML130</td>
-<td align="center"><strong>Ayush Kumar Biswal</strong><br/>Full-Stack Developer & Researcher<br/>🎓 Roll: 23CSE656</td>
+<td align="center"><strong>Subrata Dhibar</strong><br/>Team Lead & Backend Developer<br/>🎓 Roll: 23CSEAIML130</td>
+<td align="center"><strong>Ayush Kumar Biswal</strong><br/>Researcher & Content Strategist<br/>🎓 Roll: 23CSE656</td>
 </tr>
 <tr>
-<td align="center"><strong>Monosmita Behera</strong><br/>Frontend Developer & Graphics Designer<br/>🎓 Roll: 23CSE006</td>
-<td align="center"><strong>Ashmit Raj</strong><br/>UI/UX Designer & Frontend Developer<br/>🎓 Roll: 23CSE119</td>
+<td align="center"><strong>Monosmita Behera</strong><br/> Graphics Designer<br/>🎓 Roll: 23CSE006</td>
+<td align="center"><strong>Ashmit Raj</strong><br/>UI/UX Designer<br/>🎓 Roll: 23CSE119</td>
 </tr>
 </table>
 

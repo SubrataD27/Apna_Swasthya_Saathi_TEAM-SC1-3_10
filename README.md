@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Apna Swasthya Saathi Logo](https://via.placeholder.com/300x150/4A90E2/FFFFFF?text=Apna+Swasthya+Saathi)
-
 **Team ID: TEAM(SC1)3_10 | Team Sanjeevni**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -483,7 +483,7 @@ We welcome contributions from the community! Here's how you can help:
 🔗 [GitHub - Apna Swasthya Saathi](https://github.com/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10)
 
 **Demo & Presentation:**  
-📊 [Live Demo](https://apna-swasthya-saathi.vercel.app)  
+📊 [Live Demo](https://team-sanjeevni.netlify.app/)  
 📋 [Project Presentation](https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing)
 
 

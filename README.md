@@ -409,7 +409,7 @@ Features: Analytics, user management, system monitoring
 
 ### 🎬 **Watch Our Complete Demo**
 
-[![Demo Video](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=▶️+Watch+Demo+Video)](https://www.youtube.com/watch?v=3ok9RDsmrAo)
+[![Demo Video](https://www.youtube.com/watch?v=3ok9RDsmrAo)]
 
 **Features Demonstrated:**
 - ✅ AI-powered health assessment

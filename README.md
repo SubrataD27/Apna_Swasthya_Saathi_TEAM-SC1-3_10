@@ -299,16 +299,16 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 <div align="center">
 
 ### 🏠 **Home Dashboard**
-<img src="https://via.placeholder.com/800x500/4A90E2/FFFFFF?text=Modern+Dashboard+Interface" alt="Home Dashboard" width="700"/>
+<img src="images/dashboard.png"/>
 
 ### 👩‍⚕️ **ASHA Worker Portal**
-<img src="https://via.placeholder.com/800x500/27AE60/FFFFFF?text=ASHA+Professional+Dashboard" alt="ASHA Portal" width="700"/>
+<img src="images/asha_portal.png">
 
 ### 🏛️ **Government Scheme Integration**
-<img src="https://via.placeholder.com/800x500/FF9500/FFFFFF?text=BSKY+Government+Integration" alt="Government Integration" width="700"/>
+<img src="images/Govt_Insurance.png>
 
 ### 👤 **Citizen Health Companion**
-<img src="https://via.placeholder.com/800x500/9B59B6/FFFFFF?text=AI+Health+Companion" alt="Citizen Portal" width="700"/>
+<img src="images/citizen.png">
 
 </div>
 
@@ -419,9 +419,6 @@ Features: Analytics, user management, system monitoring
 
 ## 🔮 Future Roadmap
 
-<div align="center">
-<img src="https://via.placeholder.com/800x400/17A2B8/FFFFFF?text=Future+Roadmap+2024-2025" alt="Future Roadmap"/>
-</div>
 
 ### 📅 **Phase 1 - Enhanced AI**
 - 🧠 Advanced ML models for better diagnosis accuracy

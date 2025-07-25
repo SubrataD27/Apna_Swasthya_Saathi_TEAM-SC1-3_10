@@ -14,7 +14,7 @@
 
 ### 🩺 Revolutionizing Rural Healthcare Through AI and Government Integration
 
-*An award-winning platform bridging the healthcare gap in rural India with 99.9% accuracy in health risk assessment*
+*A Closed-Loop Ecosystem: Diagnose → Link → Insure*
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ### 📊 [**VIEW PRESENTATION - SWASTHYA SATHI**](https://drive.google.com/file/d/1bn1lsY94-9JAJpko8O204UWuz8-hvUxQ/view?usp=sharing)
 
-### 🎥 [**WATCH DEMO VIDEO**](#-demo-video)
+### 🎥 [**WATCH DEMO VIDEO**](https://youtu.be/3ok9RDsmrAo)
 
 ---
 
@@ -461,49 +461,29 @@ Features: Analytics, user management, system monitoring
 <img src="https://via.placeholder.com/800x400/17A2B8/FFFFFF?text=Future+Roadmap+2024-2025" alt="Future Roadmap"/>
 </div>
 
-### 📅 **Phase 1 (Q1 2024) - Enhanced AI**
+### 📅 **Phase 1 - Enhanced AI**
 - 🧠 Advanced ML models for better diagnosis accuracy
 - 🗣️ Support for 10+ Indian regional languages
 - 📱 Native mobile app development
 - 🔊 Voice-first interface optimization
 
-### 📅 **Phase 2 (Q2 2024) - IoT Integration**
+### 📅 **Phase 2 - IoT Integration**
 - 🩺 Digital stethoscope connectivity
 - 🩸 Hemoglobin meter integration
 - 📊 Real-time vital signs monitoring
 - 🔄 Automated data synchronization
 
-### 📅 **Phase 3 (Q3 2024) - Nationwide Expansion**
+### 📅 **Phase 3 - Nationwide Expansion**
 - 🌍 Multi-state government partnerships
 - 🏥 1000+ hospital network integration
 - 👥 10,000+ ASHA worker onboarding
 - 📈 Advanced analytics dashboard
 
-### 📅 **Phase 4 (Q4 2024) - Advanced Features**
+### 📅 **Phase 4 - Advanced Features**
 - 🎥 Telemedicine video consultations
 - 🤝 International health organization partnerships
 - 🔬 Predictive health analytics
 - 🌐 Offline-first PWA development
-
----
-
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-### 🥇 **LEARNATHON 4.0 Achievements**
-- 🏆 **Best Healthcare Innovation Award**
-- 🥇 **People's Choice Award**
-- 💡 **Most Impactful Solution**
-- 🔬 **Technical Excellence Recognition**
-
-### 📊 **Impact Metrics**
-- 👥 **1000+** Users in pilot phase
-- 🎯 **99.9%** AI accuracy in health assessment
-- ⚡ **90%** Reduction in diagnosis time
-- 💰 **50%** Increase in government scheme utilization
-
-</div>
 
 ---
 
@@ -540,8 +520,6 @@ We welcome contributions from the community! Here's how you can help:
 <div align="center">
 
 ### 📧 **Get in Touch**
-
-**Project Lead:** Subrata Dhibar  
 
 🔗 [LinkedIn](https://linkedin.com/in/subrata-dhibar) | [GitHub](https://github.com/SubrataD27)
 

@@ -24,6 +24,7 @@
 
 ### 🎥 [**WATCH DEMO VIDEO**](https://youtu.be/3ok9RDsmrAo)
 
+##[Visit the website](https://team-sanjeevni.netlify.app/) 
 ---
 
 ## 👥 Team Sanjeevni (TEAM(SC1)3_10)

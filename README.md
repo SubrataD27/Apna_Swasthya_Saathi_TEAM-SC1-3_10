@@ -133,11 +133,11 @@ Here's a glimpse of our application:
 
 ![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
 *Home Page*
-![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
+![Apna Swasthya Saathi Dashboard](/images/asha_portal.png)
 *login Screen*
-![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
-*Asha Worker*
-![Apna Swasthya Saathi Dashboard](/images/dashboard.png)
+![Apna Swasthya Saathi Dashboard](/images/Govt_Insurance.png)
+*Govt_Insurance*
+![Apna Swasthya Saathi Dashboard](/images/citizen.png)
 *Citizen Dashboard*
 
 ---

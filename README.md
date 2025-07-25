@@ -11,7 +11,7 @@ An AI-driven platform designed to revolutionize healthcare accessibility in rura
 
 | Name                 | Role                            |
 | -------------------- | ------------------------------- |
-| **Subrata Dhibar** | Team Lead                       |
+| **Subrata Dhibar** | Team Lead & Backend DEveloper                      |
 | **Ayush Kumar Biswal**| Researcher & Content Strategist |
 | **Ashmit Raj** | UI/UX Designer                  |
 | **Monosmita Behera** | Graphics Designer                    |

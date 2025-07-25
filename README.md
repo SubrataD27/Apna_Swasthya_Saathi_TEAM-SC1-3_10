@@ -32,12 +32,12 @@
 
 <table align="center">
 <tr>
-<td align="center"><strong>Subrata Dhibar</strong><br/>Team Lead & Backend Architect<br/>📧 subrataraj2701@gmail.com<br/>🎓 Roll: 23CSEAIML130</td>
-<td align="center"><strong>Ayush Kumar Biswal</strong><br/>Full-Stack Developer & Researcher<br/>📧 ayushbiswal2005@gmail.com<br/>🎓 Roll: 23CSE656</td>
+<td align="center"><strong>Subrata Dhibar</strong><br/>Team Lead & Backend Architect<br/>🎓 Roll: 23CSEAIML130</td>
+<td align="center"><strong>Ayush Kumar Biswal</strong><br/>Full-Stack Developer & Researcher<br/>🎓 Roll: 23CSE656</td>
 </tr>
 <tr>
-<td align="center"><strong>Monosmita Behera</strong><br/>Frontend Developer & Graphics Designer<br/>📧 monosmitabehera6@gmail.com<br/>🎓 Roll: 23CSE006</td>
-<td align="center"><strong>Ashmit Raj</strong><br/>UI/UX Designer & Frontend Developer<br/>📧 ashmitraj45@gmail.com<br/>🎓 Roll: 23CSE119</td>
+<td align="center"><strong>Monosmita Behera</strong><br/>Frontend Developer & Graphics Designer<br/>🎓 Roll: 23CSE006</td>
+<td align="center"><strong>Ashmit Raj</strong><br/>UI/UX Designer & Frontend Developer<br/>🎓 Roll: 23CSE119</td>
 </tr>
 </table>
 
@@ -542,7 +542,7 @@ We welcome contributions from the community! Here's how you can help:
 ### 📧 **Get in Touch**
 
 **Project Lead:** Subrata Dhibar  
-📧 subrataraj2701@gmail.com  
+
 🔗 [LinkedIn](https://linkedin.com/in/subrata-dhibar) | [GitHub](https://github.com/SubrataD27)
 
 **Project Repository:**  

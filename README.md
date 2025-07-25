@@ -167,13 +167,6 @@ AI/ML: Gemini API + Hugging Face Transformers
 Authentication: JWT with role-based access control
 APIs: 40+ REST endpoints with full CRUD operations
 ```
-
-### 🔐 **Security & Compliance:**
-- **DPDPA Compliant:** Data protection and privacy adherence
-- **Encrypted Storage:** AES-256 encryption for sensitive data
-- **Audit Logging:** Complete activity tracking
-- **Role-based Access:** Granular permission management
-
 ---
 
 ## 💻 Technology Stack

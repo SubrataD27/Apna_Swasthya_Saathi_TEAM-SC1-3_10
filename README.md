@@ -302,13 +302,13 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 <img src="images/dashboard.png"/>
 
 ### 👩‍⚕️ **ASHA Worker Portal**
-<img src="images/asha_portal.png">
+<img src="images/asha_portal.png/">
 
 ### 🏛️ **Government Scheme Integration**
-<img src="images/Govt_Insurance.png>
+<img src="images/Govt_Insurance.png/">
 
 ### 👤 **Citizen Health Companion**
-<img src="images/citizen.png">
+<img src="images/citizen.png/">
 
 </div>
 

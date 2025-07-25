@@ -223,71 +223,33 @@ Security: HTTPS, CORS, rate limiting
 ```
 Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 │
-├── 📁 frontend/                    # React.js Frontend Application
-│   ├── 📁 public/
-│   │   ├── 📄 index.html
-│   │   ├── 🖼️ favicon.ico
-│   │   └── 📁 assets/
-│   ├── 📁 src/
-│   │   ├── 📁 components/
-│   │   │   ├── 🤖 Ai.jsx           # AI Chatbot Component
-│   │   │   ├── 🏛️ Bsky.jsx         # Government Scheme Integration
-│   │   │   ├── 👩‍⚕️ AshaPortal.jsx   # ASHA Worker Dashboard
-│   │   │   ├── 👤 CitizenPortal.jsx # Citizen Interface
-│   │   │   └── 🛡️ Insurance.jsx    # Insurance Management
-│   │   ├── 📁 pages/
-│   │   ├── 📁 hooks/
-│   │   ├── 📁 utils/
-│   │   ├── 📄 App.jsx
-│   │   └── 📄 main.jsx
-│   ├── 📄 package.json
-│   ├── 📄 tailwind.config.js
-│   └── 📄 vite.config.js
+├── frontend/                     # React.js Frontend
+│   ├── public/                  # Static Files (HTML, favicon)
+│   └── src/
+│       ├── components/          # Ai.jsx, Bsky.jsx, AshaPortal.jsx, etc.
+│       ├── pages/
+│       ├── hooks/
+│       ├── utils/
+│       ├── App.jsx
+│       └── main.jsx
 │
-├── 📁 backend/                     # Python Flask Backend
-│   ├── 📄 app.py                   # Main Flask Application
-│   ├── 📄 setup.py                 # Automated Setup Script
-│   ├── 📄 requirements.txt         # Python Dependencies
-│   ├── 📄 .env.example            # Environment Variables Template
-│   │
-│   ├── 📁 routes/                  # API Route Handlers
-│   │   ├── 🔐 auth.py             # Authentication Routes
-│   │   ├── 🩺 diagnostics.py      # Health Analysis APIs
-│   │   ├── 🏛️ government.py       # Government API Integration
-│   │   ├── 🛡️ insurance.py        # Insurance Management
-│   │   └── 🚨 emergency.py        # Emergency System
-│   │
-│   ├── 📁 models/                  # Database Models
-│   │   ├── 👤 user.py             # User Management
-│   │   ├── 🏥 health_record.py    # Health Records
-│   │   ├── 🛡️ insurance.py        # Insurance Policies
-│   │   └── 🚨 emergency.py        # Emergency Cases
-│   │
-│   ├── 📁 services/                # Business Logic Services
-│   │   ├── 🤖 ai_service.py       # AI/ML Processing
-│   │   ├── 🏛️ government_service.py # Government API Calls
-│   │   ├── 📧 notification_service.py # Communication Services
-│   │   └── 📊 analytics_service.py # Data Analytics
-│   │
-│   ├── 📁 utils
-│   
-│   
-│   
-│   
-│   
-├── 📁 docs/                        # Documentation
-│   ├── 📄 API_DOCUMENTATION.md
-│   ├── 📄 DEPLOYMENT_GUIDE.md
-│   └── 📄 USER_MANUAL.md
+├── backend/                      # Flask Backend
+│   ├── app.py
+│   ├── setup.py
+│   ├── requirements.txt
+│   ├── .env.example
+│   ├── routes/                 # auth.py, diagnostics.py, etc.
+│   ├── models/                 # user.py, health_record.py, etc.
+│   └── services/               # Business logic
 │
-├── 📁 assets/                      # Project Assets
-│   ├── 📁 images/                  # Screenshots & Graphics
-│   ├── 📁 presentations/           # PPT & Demo Materials
-│   └── 📁 videos/                  # Demo Videos
+├── assets/                      # Images, PPTs, Videos
+│   ├── images/
+│   ├── presentations/
+│   └── videos/
 │
-├── 📄 README.md                    # This File
-├── 📄 LICENSE                      # MIT License
-└── 📄 .gitignore                   # Git Ignore Rules
+├── README.md
+└── .gitignore
+                # Git Ignore Rules
 ```
 
 ---
@@ -391,14 +353,6 @@ Email: citizen@demo.com
 Password: demo123
 Features: AI health companion, scheme access, insurance
 ```
-
-### 🎛️ **Admin Panel**
-```
-Email: admin@demo.com
-Password: admin123
-Features: Analytics, user management, system monitoring
-```
-
 ---
 
 ## 🎥 Demo Video

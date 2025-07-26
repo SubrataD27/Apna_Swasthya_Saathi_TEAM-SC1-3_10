@@ -102,7 +102,7 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 
 ### 👩‍⚕️ **ASHA Worker Empowerment**
 - **Professional Dashboard:** Case management and community health tracking
-- **IoT Device Integration:** Digital stethoscope and hemoglobin meter connectivity
+- **IoT Device Integration:** Digital stethoscope and hemoglobin meter connectivity(Future Scope)
 - **Performance Analytics:** KPI tracking and impact measurement
 - **Training Modules:** Continuous education and skill development
 

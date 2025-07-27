@@ -133,7 +133,7 @@ const AboutUs = () => {
           </div>
           <div>
             <img
-              src="https://images.pexels.com/photos/5214413/pexels-photo-5214413.jpeg?auto=compress&cs=tinysrgb&w=600"
+              src="https://i.ibb.co/FkH329Nq/win.jpg"
               alt="ASHA Worker helping community"
               className="rounded-2xl shadow-2xl"
             />

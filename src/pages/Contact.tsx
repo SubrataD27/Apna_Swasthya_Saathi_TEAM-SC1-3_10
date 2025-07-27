@@ -36,7 +36,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone Support',
-      details: '+91 9876543210',
+      details: '+91 9XXXX XXXXX',
       description: 'Available 24/7 for emergencies',
       color: 'bg-green-500'
     },

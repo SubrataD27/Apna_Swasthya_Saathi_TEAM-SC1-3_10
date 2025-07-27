@@ -78,7 +78,7 @@ In rural India, particularly in states like Odisha, **77% of women suffer from a
 **Apna Swasthya Saathi** is a comprehensive **B2G2C (Business-to-Government-to-Consumer)** ecosystem that revolutionizes rural healthcare through:
 
 ### 🔄 The Closed-Loop Model
-1. **🩺 DIAGNOSE:** AI-powered preliminary health assessment with 99.9% accuracy
+1. **🩺 DIAGNOSE:** AI-powered preliminary health assessment 
 2. **🏛️ LINK:** Seamless integration with government schemes (BSKY, ABDM, CoWIN)
 3. **🛡️ INSURE:** Micro-insurance products starting at ₹50 premium
 
@@ -90,14 +90,13 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 
 ### 🤖 **AI-Powered Health Intelligence**
 - **Multi-modal AI Chatbot:** Voice + Text in Hindi/English/Odia
-- **99.9% Accuracy:** Advanced symptom analysis using Gemini API + Hugging Face
+- **Accuracy:** Advanced symptom analysis using Gemini API + Hugging Face
 - **Risk Stratification:** Automated triage with confidence scoring
 - **Predictive Analytics:** Early warning system for health deterioration
 
 ### 🏥 **Government Integration Suite**
 - **BSKY Integration:** Real-time eligibility checking and hospital empanelment
 - **ABDM Compliance:** Complete integration with Ayushman Bharat Digital Mission
-- **CoWIN API:** Vaccination center locator and appointment booking
 - **Automatic Verification:** Background eligibility processing
 
 ### 👩‍⚕️ **ASHA Worker Empowerment**
@@ -128,13 +127,12 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 - ✅ **Gemini API Integration:** Advanced health analysis and recommendations
 - ✅ **Hugging Face Models:** Symptom classification with NLP processing
 - ✅ **Voice Processing:** Multi-language voice input (Hindi/English/Odia)
-- ✅ **Risk Assessment:** 99.9% accuracy with confidence scoring
+- ✅ **Risk Assessment:** Legitimate accuracy with confidence scoring
 - ✅ **Smart Recommendations:** Personalized health guidance
 
 #### 🏛️ **Government API Integration**
 - ✅ **BSKY Integration:** Complete Biju Swasthya Kalyan Yojana connectivity
 - ✅ **ABDM Compliance:** Ayushman Bharat Digital Mission integration
-- ✅ **CoWIN API:** Vaccination center and appointment management
 - ✅ **Eligibility Verification:** Automatic background checking
 - ✅ **Hospital Network:** Real-time empanelment status
 
@@ -150,11 +148,6 @@ This isn't just another health app - it's a **complete healthcare lifeline** for
 - ✅ **Session Management:** Persistent conversation tracking
 - ✅ **Multi-channel Support:** SMS, Voice, App integration
 
-#### 📊 **Comprehensive Database**
-- ✅ **10+ Interconnected Tables:** Complete data relationship mapping
-- ✅ **Supabase Integration:** Real-time database with PostgreSQL
-- ✅ **ABHA ID Management:** Unique health identifier system
-- ✅ **AI Analysis Storage:** Historical health data with insights
 
 ### ⚙️ **Technical Implementation:**
 
@@ -164,7 +157,7 @@ Backend Framework: Python Flask (Production-ready)
 Database: Supabase/PostgreSQL with comprehensive schema
 AI/ML: Gemini API + Hugging Face Transformers
 Authentication: JWT with role-based access control
-APIs: 40+ REST endpoints with full CRUD operations
+APIs
 ```
 ---
 
@@ -174,20 +167,15 @@ APIs: 40+ REST endpoints with full CRUD operations
 ```javascript
 Framework: React 18+ with Vite
 Styling: Tailwind CSS + Custom Components
-State Management: Context API with Hooks
-Routing: React Router v6
-UI Components: Custom + Headless UI
-Language Support: i18next for multilingual
 ```
 
 ### 🔧 **Backend & AI Technologies**
 ```python
-Framework: Python Flask with SDLC methodology
+Framework: Python Flask 
 Database: Supabase (PostgreSQL) with real-time capabilities
 AI/ML: Google Gemini API + Hugging Face Transformers
 Authentication: JWT tokens with refresh mechanism
 File Storage: Supabase Storage for media files
-Background Tasks: Celery with Redis
 ```
 
 ### 🌐 **External Integrations**
@@ -195,7 +183,6 @@ Background Tasks: Celery with Redis
 Government APIs:
   - BSKY (Biju Swasthya Kalyan Yojana)
   - ABDM (Ayushman Bharat Digital Mission)
-  - CoWIN API for vaccination services
 
 AI Services:
   - Google Gemini API for health analysis
@@ -211,10 +198,9 @@ Communication:
 ### 🚀 **Deployment & DevOps**
 ```bash
 Frontend: Vercel with automatic deployments
-Backend: Railway/Heroku with CI/CD pipeline
+Backend: Heroku with CI/CD pipeline
 Database: Supabase cloud with edge functions
 Monitoring: Custom analytics dashboard
-Security: HTTPS, CORS, rate limiting
 ```
 
 ---
@@ -290,7 +276,7 @@ Apna_Swasthya_Saathi_TEAM-SC1-3_10/
 git clone https://github.com/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10.git
 cd Apna_Swasthya_Saathi_TEAM-SC1-3_10
 
-# Backend Setup (Automated)
+# Backend Setup (Still in Progress fixing some functionalities)
 cd backend
 python setup.py  # Automated setup script with all dependencies
 
@@ -302,7 +288,7 @@ npm run dev
 
 ### 🔧 **Manual Setup**
 
-#### **Backend Setup:**
+#### **Backend Setup:(Still in Progress)**
 ```bash
 cd backend
 
@@ -335,7 +321,6 @@ npm run dev
 ### 🌐 **Access the Application**
 - **Frontend:** http://localhost:5173
 - **Backend API:** http://localhost:5000
-- **API Documentation:** http://localhost:5000/docs
 
 ---
 

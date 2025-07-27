@@ -189,7 +189,7 @@ AI Services:
   - Hugging Face for NLP processing
   - Voice processing capabilities
 
-Communication:
+Communication(Work in Progress):
   - SMS Gateway integration
   - Email service (SMTP)
   - Push notifications

@@ -453,6 +453,6 @@ Copyright (c) 2025 Team Sanjeevni | Team(SC1)3_10 - LEARNATHON 4.0
 [![GitHub forks](https://img.shields.io/github/forks/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10.svg?style=social&label=Fork)](https://github.com/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10.svg?style=social&label=Watch)](https://github.com/SubrataD27/Apna_Swasthya_Saathi_TEAM-SC1-3_10)
 
-**Together, let's revolutionize healthcare for rural India! 🚀**
+**Together, let's revolutionize healthcare for rural India 🇮🇳! 🚀**
 
 </div>

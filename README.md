@@ -79,7 +79,7 @@ In rural India, particularly in states like Odisha, **77% of women suffer from a
 
 ### 🔄 The Closed-Loop Model
 1. **🩺 DIAGNOSE:** AI-powered preliminary health assessment 
-2. **🏛️ LINK:** Seamless integration with government schemes (BSKY, ABDM, CoWIN)
+2. **🏛️ LINK:** Seamless integration with government schemes (For example : BSKY, ABDM, CoWIN)
 3. **🛡️ INSURE:** Micro-insurance products starting at ₹50 premium
 
 This isn't just another health app - it's a **complete healthcare lifeline** for rural India.
